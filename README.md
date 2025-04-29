@@ -1,4 +1,4 @@
-# ETL-to-dashboard-python-powerbi
+# etl-to-dashboard-python-powerbi
 This project demonstrates a complete workflow from ETL (Extract, Transform, Load) using Python to interactive dashboard creation with Power BI. It showcases how raw data is collected, processed, and visualized to deliver actionable business insights. The project highlights automation, data modeling, and business intelligence best practices.
 # ETL to Dashboard: Python & Power BI
 This project demonstrates a full-stack data pipeline that extracts, transforms, and loads data using Python, followed by interactive dashboarding using Power BI. It is designed to bridge the gap between raw data and meaningful business insights, focusing on automation, data quality, and visualization.
@@ -32,8 +32,8 @@ etl-to-dashboard-python-powerbi/
 └── README.md
 # Getting Started
 # 1. Clone the Repository
-git clone https://github.com/Mahpara810/ETL-to-dashboard-python-powerbi.git
-cd ETL-to-dashboard-python-powerbi
+git clone https://github.com/Mahpara810/etl-to-dashboard-python-powerbi.git
+cd etl-to-dashboard-python-powerbi
 # 2. Install Python Dependencies
 pip install -r requirements.txt
 # 3. Run the ETL Script
