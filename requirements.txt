@@ -1,0 +1,15 @@
+# For accessing datasets from Kaggle
+kaggle
+
+# For data manipulation and analysis
+pandas
+
+# For numerical computing and array operations
+numpy
+
+# For basic data visualizations
+matplotlib
+
+# For statistical data visualizations
+seaborn
+
