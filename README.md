@@ -23,7 +23,7 @@ This project demonstrates a full-stack data pipeline that extracts, transforms, 
 | **Scheduler**   | (Optional) Automate ETL execution   |
 
 # Project Structure
-``1text
+```text
 etl-to-dashboard-python-powerbi/
 ├── data/                  # Raw and cleaned data files
 ├── python/                # ETL scripts in Python
