@@ -23,13 +23,15 @@ This project demonstrates a full-stack data pipeline that extracts, transforms, 
 | **Scheduler**   | (Optional) Automate ETL execution   |
 
 # Project Structure
+``1text
 etl-to-dashboard-python-powerbi/
 ├── data/                  # Raw and cleaned data files
 ├── python/                # ETL scripts in Python
 ├── powerbi/               # .pbix file and screenshots
 ├── notebooks/             # Jupyter notebooks (optional)
 ├── requirements.txt       # Python dependencies
-└── README.md
+└── README.md              # Project documentation
+```
 # Getting Started
 # 1. Clone the Repository
 git clone https://github.com/Mahpara810/etl-to-dashboard-python-powerbi.git
