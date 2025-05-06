@@ -58,17 +58,6 @@ The dataset used in this project is publicly available on Kaggle:
 
 • After execution, verify that the cleaned and transformed data files are saved in the `data/` or `output/` folder.
 
-## 4. Run the ETL Script
-• Open python/etl_script.py and update any file paths or data source URLs as needed.
-
-• Execute the script:
-```bash
-python python/New York Airbnb Open Data 2024.ipynb
-```
-• Verify that the cleaned and transformed files appear in your designated data/ or output/ folder.
-
-
-
 # 5. Open Power BI Dashboard
 • Open the .pbix file in the powerbi/ folder.
 
