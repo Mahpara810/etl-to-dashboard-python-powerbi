@@ -53,7 +53,7 @@ The dataset used in this project is publicly available on Kaggle:
 
 • Execute the script:
 ```bash
-python python/etl_script.py
+python python/New York Airbnb Open Data 2024.ipynb
 ```
 • Verify that the cleaned and transformed files appear in your designated data/ or output/ folder.
 
