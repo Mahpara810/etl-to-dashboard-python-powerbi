@@ -47,6 +47,16 @@ pip install -r requirements.txt
 
 The dataset used in this project is publicly available on Kaggle:  
 [New York Airbnb Open Data 2024](https://www.kaggle.com/datasets/vrindakallu/new-york-dataset)
+## 4. Run the ETL Notebook
+
+• Open the Jupyter Notebook located at:  
+  `notebooks/New York Airbnb Open Data 2024.ipynb`
+
+• Update any file paths or data source URLs inside the notebook as needed.
+
+• Run all cells to perform the ETL process (data cleaning, transformation, and export).
+
+• After execution, verify that the cleaned and transformed data files are saved in the `data/` or `output/` folder.
 
 ## 4. Run the ETL Script
 • Open python/etl_script.py and update any file paths or data source URLs as needed.
