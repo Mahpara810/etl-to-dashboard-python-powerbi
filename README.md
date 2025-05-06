@@ -80,6 +80,14 @@ End-to-end ETL + BI pipeline
 
 🧪 Ideal for demonstrating Data Engineering + BI skills
 # 📊 Dashboard
+![image1](https://github.com/user-attachments/assets/4a6a7926-5642-4273-98d8-8d04f57ef626)
+
+![image2](https://github.com/user-attachments/assets/47eb4c7d-05d7-42f6-8461-4689afd30c10)
+
+![image3](https://github.com/user-attachments/assets/e2032b39-8795-43ae-9d20-6a18397a84c0)
+
+
+
 # ✅  Use Cases
 This project framework can be adapted for:
 
@@ -109,7 +117,7 @@ This dataset captures every Airbnb listing in New York City as of **January 5, 2
 - **Host activity & availability:**  
   - `calculated_host_listings_count`, `availability_365`  
 
-Use this data for market‐analysis, pricing‐trend modeling, neighbourhood‐level comparisons, or machine‐learning experiments :contentReference[oaicite:0]{index=0}.
+Use this data for market‐analysis, pricing‐trend modeling, neighbourhood‐level comparisons, or machine‐learning experiments.
 ## 📘 Additional Learning Resources (if applicable)
 
 - **ETL with Python**  
