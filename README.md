@@ -56,7 +56,7 @@ The dataset used in this project is publicly available on Kaggle:
 
 • Run all cells to perform the ETL process (data cleaning, transformation, and export).
 
-• After execution, verify that the cleaned and transformed data files are saved in the `data/` or `output/` folder.
+• After execution, verify that the cleaned and transformed data files are saved in the `<data_folder>/` or `<output_folder>/`.
 
 # 5. Open Power BI Dashboard
 • Open the .pbix file in the powerbi/ folder.
