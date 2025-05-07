@@ -66,7 +66,7 @@ The dataset used in this project is publicly available on Kaggle:
 • Refresh the dashboard to load the latest data.
 
 ## 6. Explore the Dashboards!
-Enjoy exploring the visualized data insights!
+• Explore and analyze the visualized data insights to uncover trends, patterns, and key metrics.
 
 # ✨ Features
 End-to-end ETL + BI pipeline
