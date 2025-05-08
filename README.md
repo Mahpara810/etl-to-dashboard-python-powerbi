@@ -85,7 +85,7 @@ End-to-end ETL + BI pipeline
 
 ![image3](https://github.com/user-attachments/assets/e2032b39-8795-43ae-9d20-6a18397a84c0)
 
-![image4](https://github.com/user-attachments/assets/6134fe31-5192-4b1e-a2d3-b42b5edf30f8)
+![image](https://github.com/user-attachments/assets/b9be1112-faf6-4880-a061-db28f8f334f9)
 
 ![image5](https://github.com/user-attachments/assets/13b8dc7d-b1a8-474a-8376-d229f07eb87e)
 
