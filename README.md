@@ -96,7 +96,7 @@ End-to-end ETL + BI pipeline
 
 • What are the price and rating averages per host?
 
-• Are there hosts with high ratings and high revenue?
+• Are there hosts with high ratings and high revenue? 
 
 # 📊 Dashboard
 ![image1](https://github.com/user-attachments/assets/4a6a7926-5642-4273-98d8-8d04f57ef626)
