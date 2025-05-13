@@ -81,13 +81,21 @@ End-to-end ETL + BI pipeline
 
 # 🧠 Business Problem
 • How many total listings are available?
+
 • What are the most common types of rooms?
+
 • Which neighbourhood groups have the highest number of listings?
+
 • What is the average price across different neighbourhood groups?
+
 • What are the most common property types in specific areas?
+
 • How do listings vary by region in price and rating?
+
 • Who are the top hosts by number of listings?
+
 • What are the price and rating averages per host?
+
 • Are there hosts with high ratings and high revenue?
 
 # 📊 Dashboard
